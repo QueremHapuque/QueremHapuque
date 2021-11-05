@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @QueremHapuque
+- 👀 I’m interested in collaborating on projects to learn and develop my programming skills
+- 🌱 I’m currently learning Python and JS
+- 💞️ I’m looking to collaborate on varied projects, whether websites, games, applications or even databases
+- 📫 How to reach me: my email is queremhmlima@gmail.com, my twitter is @hapuquecode and my discord is Hapuquezinha#1100
